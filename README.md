@@ -1,4 +1,5 @@
+Intern @ Spark Foundation
 
-html,css,javascript 
+Task 1: Basic Banking System
 
-banking system
+The Basic Banking System website function is to transfer money from one account to another account.
